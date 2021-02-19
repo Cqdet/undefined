@@ -1,6 +1,6 @@
 # undefined
 undefined
 
-## Prior art
+## undefined
 
-- [undefined](https://www.npmjs.com/package/undefined) npm module
+- [undefined](https://www.npmjs.com/package/undefined) undefined
